@@ -1,0 +1,5 @@
+gradio
+openai
+google-genai
+python-dotenv
+mem0ai
